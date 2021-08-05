@@ -1,0 +1,141 @@
+t.newStone("S")
+t.matrix
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+clear
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+clear
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+S
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+clear
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+clear
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+clear
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+clear
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+S
+t=Tetris(18,10)
+t.newStone("S")
+clear
+t=Tetris(18,10)
+t.newStone("S")
+D
+R
+clear
+t=Tetris(18,10)
+t.newStone("S")
+clean
+clear
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+t=Tetris(18,10)
+t.newStone("S")
+
+## ---(Mon Aug  2 20:04:49 2021)---
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+t.newStone("S")
+runfile('C:/Users/91962/.spyder-py3/zoho l3.py', wdir='C:/Users/91962/.spyder-py3')
+t=Tetris(18,10)
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+arr1
+arr2
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+s
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+1
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+print("kathir) 
+print("kathir")
+print("Kathir")
+print("Mahesh")
+print("Kathir",end="")
+print("Mahesh")
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+print("Kathir",end="      ")
+print("Mahesh")
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+obj1.factorial()
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+runfile('C:/Users/91962/.spyder-py3/swp_client.py', wdir='C:/Users/91962/.spyder-py3')
+l
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+obj=maths()
+obj.factorial(5)
+obj.factorial(6)
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+l
+runfile('C:/Users/91962/.spyder-py3/zoho l2.py', wdir='C:/Users/91962/.spyder-py3')
+a+b
+a=1
+b=3
+a+b
